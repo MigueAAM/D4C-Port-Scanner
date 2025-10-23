@@ -9,6 +9,10 @@ start reading the documentation of <b>"NMAP"</b> for understand the arguments us
 the script is powered by <b>"NMAP"</b> module of python.
 
 <h3>Requirements: </h3>
+<h3>For Windows: </h3>
 Install the following module:
 <p><b>Python Nmap:</b></p>
 <code>pip install python-nmap</code>
+<br>
+<h3>For Linux-based: </h3>
+<code>sudo apt install python3-nmap</code>
